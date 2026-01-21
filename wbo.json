@@ -1,6 +1,8 @@
 {
-	"kammer": "Ärtzekammer Nordrhein"
-},
-{
-	"kammer": "Bezirksärztekammer Koblenz"
+  "kammern": [
+    "Ärtzekammer Nordrhein",
+    "Bezirksärztekammer Koblenz",
+    "Landesärztekammer Hessen",
+    "Ärtzekammer Westfalen-Lippe"
+  ]
 }
