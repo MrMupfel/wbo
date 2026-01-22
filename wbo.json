@@ -1,7 +1,11 @@
 [
-    "Ärztekammer Nordrhein",
-    "Bezirksärztekammer Koblenz",
-    "Landesärztekammer Hessen",
-    "Ärztekammer Westfalen-Lippe",
-    "Testland"
+  {
+    "title": "Ärztekammer Nordrhein",
+    "folder": "ak_nordrhein"
+  },
+  {
+    "title": "Ärztekammer Westfalen-Lippe",
+    "folder": "ak_westfalen_lippe"
+  }
 ]
+
