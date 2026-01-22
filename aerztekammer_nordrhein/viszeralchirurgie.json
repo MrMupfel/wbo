@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "id": "ak_nordrhein_im_2020",
+    "specialty_name": "Facharzt für Viszeralchirurgie",
+    "medical_association": "Ärztekammer Nordrhein",
+    "required_months": 60,
+    "wbo_year": 2020,
+    "version": "1.0"
+  },
+  "sections": [
+    {
+      "section_title": "Notfall- und Intensivmedizin",
+      "procedures": [
+        {
+          "id": "p_001",
+          "title": "Zentralvenöse Zugänge",
+          "target_count": 20
+        }
+      ]
+    },
+    {
+      "section_title": "Viszeralchirurgische Notfälle",
+      "procedures": [
+        {
+          "id": "p_002",
+          "title": "Notfalleingriffe im Bauchraum, z. B. bei Ileus, Blutung, Peritonitis, Milzruptur, Hohlorganperforationen einschließlich abdomineller Vakuumtherapie (VAC)",
+          "target_count": 20
+        }
+      ]
+    },
+    {
+      "section_title": "Diagnostische Verfahren",
+      "procedures": [
+        {
+          "id": "p_003",
+          "title": "Sonographische Untersuchungen des Abdomens und des Retroperitoneums",
+          "target_count": 400
+        },
+        {
+          "id": "p_004",
+          "title": "Sonographische Untersuchungen der Urogenitalorgane",
+          "target_count": 200
+        }
+      ]
+    }
+  ]
+}
