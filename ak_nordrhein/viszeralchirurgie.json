@@ -3,7 +3,7 @@
     "id": "ak_nordrhein_vc_2020",
     "specialtyName": "Facharzt für Viszeralchirurgie",
     "medicalAssociation": "Ärztekammer Nordrhein",
-    "requiredMonths": 60,
+    "requiredMonths": 72,
     "wboYear": 2020,
     "version": "1.0"
   },
@@ -12,7 +12,7 @@
       "sectionTitle": "Notfall- und Intensivmedizin",
       "procedures": [
         {
-          "id": "p_001",
+          "id": "ak_nordrhein_vc_2020_p_001",
           "title": "Zentralvenöse Zugänge",
           "targetCount": 20
         }
@@ -22,7 +22,7 @@
       "sectionTitle": "Viszeralchirurgische Notfälle",
       "procedures": [
         {
-          "id": "p_002",
+          "id": "ak_nordrhein_vc_2020_p_002",
           "title": "Notfalleingriffe im Bauchraum, z. B. bei Ileus, Blutung, Peritonitis, Milzruptur, Hohlorganperforationen einschließlich abdomineller Vakuumtherapie (VAC)",
           "targetCount": 20
         }
@@ -32,14 +32,189 @@
       "sectionTitle": "Diagnostische Verfahren",
       "procedures": [
         {
-          "id": "p_003",
+          "id": "ak_nordrhein_vc_2020_p_003",
           "title": "Sonographische Untersuchungen des Abdomens und des Retroperitoneums",
           "targetCount": 400
         },
         {
-          "id": "p_004",
+          "id": "ak_nordrhein_vc_2020_p_004",
           "title": "Sonographische Untersuchungen der Urogenitalorgane",
           "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_005",
+          "title": "Duplexsonographie der abdominiellen und retroperitonealen Gefäße sowie des Mediastinum",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_006",
+          "title": "Notfallsonographien (eFAST) ",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_007",
+          "title": "Richtungsweisende Sonographien der Halsregion",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_008",
+          "title": "Ösophagogastroduodenoskopie",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_009",
+          "title": "Koloskopie",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_010",
+          "title": "Rektosigomidoskopie",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_011",
+          "title": "Proktoskopie",
+          "targetCount": 50
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Weichteilverletzungen, Wunden und Verbrennungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_vc_2020_p_012",
+          "title": "Resektion gutartiger oberflächlicher und peripherer Weichteiltumore",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_013",
+          "title": "Inzision und Exzision von Hautabszessen ",
+          "targetCount": 20
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verletzungen, Erkrankungen und Funktionsstörungen der viszeralen Organe und Gefäße",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_vc_2020_p_014",
+          "title": "Implantation und Explantation von intravenösen Portkathetern",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_015",
+          "title": "Hämorrhoidenoperation einschließlich Therapie einer Fissur",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_016",
+          "title": "Lymphknotenbiopsie bzw. -dissektion",
+          "targetCount": 5
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_017",
+          "title": "Leistenhernie",
+          "targetCount": 40
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_018",
+          "title": "Bauchwandhernie",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_019",
+          "title": "Narbenhernie",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_020",
+          "title": "Laparotomien und deren Verschluss ",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_021",
+          "title": "Laparoskopien",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_022",
+          "title": "Appendektomie",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_023",
+          "title": "Cholezstektomie",
+          "targetCount": 35
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_024",
+          "title": "Explorative Laparotomie und/oder Laparoskopie",
+          "targetCount": 30
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_025",
+          "title": "Dünndarmresektion",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_026",
+          "title": "Stomaanlage oder Stomarückverlagerung",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_027",
+          "title": "Eingriffe am Kolon ",
+          "targetCount": 30
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_028",
+          "title": "1. Assistenz bei Fundoplicatio einschließlich minimal invasiver Verfahren",
+          "targetCount": 5
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_029",
+          "title": "Splenektomie",
+          "targetCount": 3
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_030",
+          "title": "Magenteilresektion",
+          "targetCount": 3
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_031",
+          "title": "Leberwedgeresektion",
+          "targetCount": 3
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_032",
+          "title": "Enddarmoperation",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_033",
+          "title": "Adhäsiolyse",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_034",
+          "title": "Erste Assistenz bei Eingriffen höherer Schwierigkeitsgrade, z. B. Pankreasresektion, Gastrektomie, Rektumresektion",
+          "targetCount": 80
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verletzungen, Erkrankungen und Funktionsstörungen des Kopf- und Halsbereichs",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_vc_2020_p_014",
+          "title": "Eingriffe an der Schilddrüse",
+          "targetCount": 25
+        },
+        {
+          "id": "ak_nordrhein_vc_2020_p_015",
+          "title": "Schilddrüsenresektion",
+          "targetCount": 20
         }
       ]
     }
