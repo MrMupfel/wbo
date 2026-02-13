@@ -1,0 +1,597 @@
+{
+  "metadata": {
+    "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020",
+    "specialtyName": "Facharzt für Orthopädie und Unfallchirurgie",
+    "medicalAssociation": "Ärztekammer Nordrhein",
+    "requiredMonths": 72,
+    "wboYear": 2020,
+    "version": "1.0"
+  },
+  "sections": [
+    {
+      "sectionTitle": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_001",
+          "title": "Wesentliche Gesetze, Verordnungen und Richtlinien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_002",
+          "title": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_003",
+          "title": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_004",
+          "title": "Prophylaxe, Diagnostik und Therapie von Thrombosen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_005",
+          "title": "Wundheilung und Narbenbildung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_006",
+          "title": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_007",
+          "title": "Techniken der temporären Ruhigstellung und Fixationsverbände",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_008",
+          "title": "Grundlagen der medikamentösen Tumortherapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_009",
+          "title": "Defektdeckung bei akuten und chronischen Wunden",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_010",
+          "title": "Basisbehandlung palliativmedizinisch zu versorgender Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_011",
+          "title": "Scoresysteme und Risikoeinschätzung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Lokalanästhesie und Schmerztherapie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_012",
+          "title": "Lokal- und Regionalanästhesien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_013",
+          "title": "Abklärung peri- und postoperativer Schmerzzustände",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_014",
+          "title": "Diagnostik und Therapie nach dokumentierten Schmerztherapieplänen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_015",
+          "title": "Behandlung von Patienten mit komplexen Schmerzzuständen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_016",
+          "title": "Injektionen und Punktionen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Notfall- und Intensivmedizin",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_017",
+          "title": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_018",
+          "title": "Kardiopulmonale Reanimation",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_019",
+          "title": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_020",
+          "title": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_021",
+          "title": "Differenzierte Beatmungstechniken",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_022",
+          "title": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_023",
+          "title": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_024",
+          "title": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_025",
+          "title": "Pharmakologie der Herz-Kreislauf-Unterstützung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_026",
+          "title": "Mitbehandlung bei septischen Krankheitsbildern",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_027",
+          "title": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_028",
+          "title": "Zentralvenöse Zugänge",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_029",
+          "title": "Arterielle Kanülierung und Punktionen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_030",
+          "title": "Thorax-Drainage",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_031",
+          "title": "Legen eines transurethralen und/oder suprapubischen Katheters",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Übergreifende Inhalte der Facharzt-Weiterbildung Orthopädie und Unfallchirurgie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_032",
+          "title": "Biomechanik der Bewegungsorgane",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_033",
+          "title": "Technische und biomechanische Grundlagen operativer und konservativer Verfahren",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_034",
+          "title": "Vorbeugung, Diagnostik und Therapie von Erkrankungen des Knochenstoffwechsels, insbesondere Osteoporose, Osteomalazie und metabolische Knochenerkrankungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_035",
+          "title": "Wissenschaftlich begründete Gutachtenerstellung",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_036",
+          "title": "Einleitung und Durchführung von berufsgenossenschaftlichen Heilverfahren einschließlich Durchgangsarztverfahren",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Diagnostische Verfahren",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_037",
+          "title": "Richtungsweisende Sonographie der Säuglingshüfte",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_038",
+          "title": "Durchführung und Befunderstellung von Ultraschalluntersuchungen, davon",
+          "targetCount": 300
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_039",
+          "title": "Notfallsonographien (eFAST)",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_040",
+          "title": "am Bewegungsapparat einschließlich Arthrosonographien",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_041",
+          "title": "Indikation, Durchführung und Befunderstellung von konventioneller Röntgendiagnostik, davon",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_042",
+          "title": "Notfalldiagnostik: Röntgendiagnostik ohne CT im Rahmen der Erstversorgung bei Erwachsenen und Kindern",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_043",
+          "title": "am Skelett",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_044",
+          "title": "intraoperative radiologische Befundkontrolle",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_045",
+          "title": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_046",
+          "title": "Indikation, Durchführung und Befunderstellung der Osteodensitometrie",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_047",
+          "title": "Indikationsstellung und Befundinterpretation neurophysiologischer Diagnostik",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Weichteilverletzungen und Wunden",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_048",
+          "title": "Therapieoptionen komplexer Weichteilverletzungen, Wunden und Verbrennungen sowie Infektionen der Weichteile, des Knochens und der Gelenke",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_049",
+          "title": "Diagnostik von komplexen Weichteilverletzungen und Wunden, die mit einer Knochenverletzung einhergehen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_050",
+          "title": "Diagnostik und Therapie unkomplizierter Weichteilverletzungen einschließlich einfacher thermischer Verletzungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_051",
+          "title": "Prävention, Diagnostik und Therapie des zentralen und peripheren Kompartmentsyndroms",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Konservative Therapiemaßnahmen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_052",
+          "title": "Grundlagen manualmedizinischer Verfahren",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_053",
+          "title": "Indikationsstellung, Überwachung und Dokumentation von Verordnungen der physikalischen Therapie bei Erkrankungen der Stütz- und Bewegungsorgane, insbesondere",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_054",
+          "title": "zur Prävention",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_055",
+          "title": "zur Frühmobilisation und Rehabilitation",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_056",
+          "title": "Therapieoptionen einschließlich schmerztherapeutischer Maßnahmen bei degenerativ-entzündlichen Erkrankungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_057",
+          "title": "Konservative Therapie einschließlich schmerztherapeutischer Maßnahmen, davon",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_058",
+          "title": "bei degenerativen Erkrankungen",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_059",
+          "title": "bei angeborenen und erworbenen Deformitäten im Kindes- und Erwachsenenalter",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_060",
+          "title": "bei Luxationen, Frakturen, Distorsionen",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_061",
+          "title": "Injektionen und Punktionen an Stütz- und Bewegungsorganen auch radiologisch/sonographisch gestützt, davon",
+          "targetCount": 75
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_062",
+          "title": "an der Wirbelsäule",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_063",
+          "title": "Indikation, Gebrauchsschulung und Überwachung von Hilfsmitteln an den Stütz- und Bewegungsorganen, insbesondere bei Einlagen, Orthesen und Prothesen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_064",
+          "title": "Grundlagen alternativer Heilverfahren",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Deformitäten und Reifungsstörungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_065",
+          "title": "Angeborene und erworbene Deformitäten im Kindes- und Jugendalter, z. B. bei Hüftdysplasie, Wirbelsäulen- und Fußdeformitäten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_066",
+          "title": "Diagnostik angeborener und erworbener Deformitäten und Reifungsstörungen der Stütz- und Bewegungsorgane",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Rheumatische Erkrankungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_067",
+          "title": "Erkrankungen des rheumatischen Formenkreises",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_068",
+          "title": "Therapieoptionen entzündlich-rheumatischer Erkrankungen an den Bewegungsorganen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verletzungen, Erkrankungen und Funktionsstörungen der Hand und des Unterarms",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_069",
+          "title": "Verletzungen und Funktionsstörungen der Hand und des Unterarms",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_070",
+          "title": "Erstversorgung von Verletzungen, Erkrankungen und Funktionsstörungen der Hand und des Unterarms",
+          "targetCount": 20
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Sportverletzungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_071",
+          "title": "Diagnostik und Therapie von Sportverletzungen und Sportschäden",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Tumore an den Stütz- und Bewegungsorganen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_072",
+          "title": "Konservative und operative Therapieoptionen von muskuloskelettalen Tumorerkrankungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_073",
+          "title": "Diagnostik von muskuloskelettalen Tumorerkrankungen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Polytraumamanagement",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_074",
+          "title": "Diagnostik, Therapie und interdisziplinäres Management für Schwer- und Mehrfachverletzte, davon",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_075",
+          "title": "mit einem Injury Severity Score (ISS) von mindestens 16 Punkten",
+          "targetCount": 10
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Operative Verfahren",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_076",
+          "title": "Grundlagen der operativen Technik und Operationsschritte bei Erkrankungen und Verletzungen an den Stütz- und Bewegungsorganen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_077",
+          "title": "Weichteileingriffe, insbesondere an Sehnen, Bändern, Muskeln, Haut, Weichteiltumoren, Nerven, Synovia, davon",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_078",
+          "title": "Nervenfreilegungen und Neurolysen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_079",
+          "title": "notfallmäßige Versorgung von Gefäßen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_080",
+          "title": "Therapeutische Arthroskopien an großen Gelenken, insbesondere Knie-, Sprung- und Schultergelenk, davon",
+          "targetCount": 60
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_081",
+          "title": "Knie",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_082",
+          "title": "Schulter",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_083",
+          "title": "Osteosynthesen bei Frakturen und Osteotomien an der oberen Extremität, davon",
+          "targetCount": 60
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_084",
+          "title": "Plattenosteosynthesen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_085",
+          "title": "Marknagelungen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_086",
+          "title": "Fixateur externe",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_087",
+          "title": "Zuggurtungsosteosynthesen",
+          "targetCount": 5
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_088",
+          "title": "Osteosynthesen bei Frakturen und Osteotomien an der unteren Extremität, davon",
+          "targetCount": 60
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_089",
+          "title": "Plattenosteosynthesen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_090",
+          "title": "Marknagelungen",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_091",
+          "title": "Fixateur externe",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_092",
+          "title": "Zuggurtungsosteosynthesen",
+          "targetCount": 5
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_093",
+          "title": "Versorgung mit Primärendoprothesen, davon",
+          "targetCount": 40
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_094",
+          "title": "Hüfte",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_095",
+          "title": "Knie",
+          "targetCount": 10
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_096",
+          "title": "Becken- und Wirbelsäuleneingriffe",
+          "targetCount": 15
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_097",
+          "title": "Operative Therapie bei Infektionen an Weichteilen, Knochen oder Gelenken",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_098",
+          "title": "Implantatentfernungen",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_099",
+          "title": "Erste Assistenz bei Eingriffen höherer Schwierigkeitsgrade, z. B. bei Implantatwechsel",
+          "targetCount": 20
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Strahlenschutz",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_100",
+          "title": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_101",
+          "title": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_orthopaedie_unfallchirurgie_2020_p_102",
+          "title": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz",
+          "targetCount": 0
+        }
+      ]
+    }
+  ]
+}

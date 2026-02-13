@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "id": "ak_nordrhein_vc_2020",
+    "id": "ak_nordrhein_viszeralchirurgie_2020",
     "specialtyName": "Facharzt für Viszeralchirurgie",
     "medicalAssociation": "Ärztekammer Nordrhein",
     "requiredMonths": 72,
@@ -9,12 +9,187 @@
   },
   "sections": [
     {
+      "sectionTitle": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_001",
+          "title": "Wesentliche Gesetze, Verordnungen und Richtlinien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_002",
+          "title": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_003",
+          "title": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_004",
+          "title": "Techniken der temporären Ruhigstellung und Fixationsverbände",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_005",
+          "title": "Prophylaxe, Diagnostik und Therapie von Thrombosen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_006",
+          "title": "Wundheilung und Narbenbildung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_007",
+          "title": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_008",
+          "title": "Grundlagen der medikamentösen Tumortherapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_009",
+          "title": "Defektdeckung bei akuten und chronischen Wunden",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_010",
+          "title": "Basisbehandlung palliativmedizinisch zu versorgender Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_011",
+          "title": "Scoresysteme und Risikoeinschätzung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Lokalanästhesie und Schmerztherapie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_012",
+          "title": "Lokal- und Regionalanästhesien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_013",
+          "title": "Abklärung peri- und postoperativer Schmerzzustände",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_014",
+          "title": "Diagnostik und Therapie nach dokumentierten Schmerztherapieplänen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_015",
+          "title": "Behandlung von Patienten mit komplexen Schmerzzuständen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_016",
+          "title": "Injektionen und Punktionen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
       "sectionTitle": "Notfall- und Intensivmedizin",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_001",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_017",
+          "title": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_018",
+          "title": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_019",
+          "title": "Differenzierte Beatmungstechniken",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_020",
+          "title": "Kardiopulmonale Reanimation",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_021",
+          "title": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_022",
+          "title": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_023",
+          "title": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_024",
+          "title": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_025",
+          "title": "Mitbehandlung bei septischen Krankheitsbildern",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_026",
+          "title": "Pharmakologie der Herz-Kreislauf-Unterstützung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_027",
+          "title": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_028",
           "title": "Zentralvenöse Zugänge",
           "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_029",
+          "title": "Arterielle Kanülierung und Punktionen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_030",
+          "title": "Thorax-Drainage",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_031",
+          "title": "Legen eines transurethralen und/oder suprapubischen Katheters",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Übergreifende Inhalte der Facharzt-Weiterbildung Viszeralchirurgie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_032",
+          "title": "Berufsgenossenschaftliche Heilverfahren einschließlich Durchgangsarztverfahren",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_033",
+          "title": "Grundlagen der Verwendung alloplastischer Materialien",
+          "targetCount": 0
         }
       ]
     },
@@ -22,7 +197,12 @@
       "sectionTitle": "Viszeralchirurgische Notfälle",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_002",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_034",
+          "title": "Traumamanagement von Schwer- und Mehrfachverletzten, auch mit einem Injury Severity Score (ISS) von mindestens 16 Punkten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_035",
           "title": "Notfalleingriffe im Bauchraum, z. B. bei Ileus, Blutung, Peritonitis, Milzruptur, Hohlorganperforationen einschließlich abdomineller Vakuumtherapie (VAC)",
           "targetCount": 20
         }
@@ -32,49 +212,64 @@
       "sectionTitle": "Diagnostische Verfahren",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_003",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_036",
           "title": "Sonographische Untersuchungen des Abdomens und des Retroperitoneums",
           "targetCount": 400
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_004",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_037",
           "title": "Sonographische Untersuchungen der Urogenitalorgane",
           "targetCount": 200
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_005",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_038",
           "title": "Duplexsonographie der abdominiellen und retroperitonealen Gefäße sowie des Mediastinum",
           "targetCount": 100
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_006",
-          "title": "Notfallsonographien (eFAST) ",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_039",
+          "title": "Notfallsonographien (eFAST)",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_007",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_040",
           "title": "Richtungsweisende Sonographien der Halsregion",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_008",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_041",
+          "title": "Endosonographie des Rektums",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_042",
           "title": "Ösophagogastroduodenoskopie",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_009",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_043",
           "title": "Koloskopie",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_010",
-          "title": "Rektosigomidoskopie",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_044",
+          "title": "Rektosigmoidoskopie",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_011",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_045",
           "title": "Proktoskopie",
           "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_046",
+          "title": "Indikation, Durchführung und Befunderstellung der intraoperativen radiologischen Befundkontrolle",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_047",
+          "title": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren",
+          "targetCount": 0
         }
       ]
     },
@@ -82,13 +277,38 @@
       "sectionTitle": "Weichteilverletzungen, Wunden und Verbrennungen",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_012",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_048",
+          "title": "Weichteileingriffe, z. B. an Sehnen, Bändern, Muskeln, Haut, Weichteiltumoren und bei Infektionen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_049",
+          "title": "Prävention, Diagnostik und Therapie des zentralen und peripheren Kompartmentsyndroms",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_050",
+          "title": "Diagnostik und Therapie unkomplizierter Weichteilverletzungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_051",
+          "title": "Diagnostik von komplexen Weichteilverletzungen sowie Wunden, die eine plastische Deckung erfordern und Wunden, die mit einer Knochenverletzung einhergehen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_052",
+          "title": "Diagnostik und Therapie von thermischen und chemischen Wunden außerhalb von Gesicht, Hand, Fuß oder Genitalbereich",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_053",
           "title": "Resektion gutartiger oberflächlicher und peripherer Weichteiltumore",
           "targetCount": 20
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_013",
-          "title": "Inzision und Exzision von Hautabszessen ",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_054",
+          "title": "Inzision und Exzision von Hautabszessen",
           "targetCount": 20
         }
       ]
@@ -97,109 +317,169 @@
       "sectionTitle": "Verletzungen, Erkrankungen und Funktionsstörungen der viszeralen Organe und Gefäße",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_014",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_055",
           "title": "Implantation und Explantation von intravenösen Portkathetern",
           "targetCount": 20
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_015",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_056",
+          "title": "Operative Versorgung von Perianalabszessen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_057",
+          "title": "Exzision von Perianalvenenthrombosen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_058",
           "title": "Hämorrhoidenoperation einschließlich Therapie einer Fissur",
           "targetCount": 20
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_016",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_059",
+          "title": "Analfistel",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_060",
           "title": "Lymphknotenbiopsie bzw. -dissektion",
           "targetCount": 5
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_017",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_061",
+          "title": "Operative Therapie von Hernien, auch minimal invasiv, davon",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_062",
           "title": "Leistenhernie",
           "targetCount": 40
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_018",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_063",
           "title": "Bauchwandhernie",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_019",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_064",
           "title": "Narbenhernie",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_020",
-          "title": "Laparotomien und deren Verschluss ",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_065",
+          "title": "Gefäßfreilegung, Embolektomie und Thrombektomie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_066",
+          "title": "Varizenoperation",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_067",
+          "title": "Leber-Probeexzision",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_068",
+          "title": "Laparotomien und deren Verschluss",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_021",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_069",
           "title": "Laparoskopien",
           "targetCount": 50
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_022",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_070",
+          "title": "Resektionen, Übernähungen, Exstirpatio- nen, konventionelle, endoskopische und interventionelle Techniken, auch minimal invasiv, insbesondere",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_071",
           "title": "Appendektomie",
           "targetCount": 20
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_023",
-          "title": "Cholezstektomie",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_072",
+          "title": "Cholecystektomie",
           "targetCount": 35
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_024",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_073",
           "title": "Explorative Laparotomie und/oder Laparoskopie",
           "targetCount": 30
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_025",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_074",
+          "title": "Magenübernähung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_075",
+          "title": "Endoskopische und offene perkutane endoskopische Gastrostomie-Anlagen (PEG)",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_076",
           "title": "Dünndarmresektion",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_026",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_077",
           "title": "Stomaanlage oder Stomarückverlagerung",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_027",
-          "title": "Eingriffe am Kolon ",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_078",
+          "title": "Eingriffe am Kolon",
           "targetCount": 30
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_028",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_079",
           "title": "1. Assistenz bei Fundoplicatio einschließlich minimal invasiver Verfahren",
           "targetCount": 5
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_029",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_080",
           "title": "Splenektomie",
           "targetCount": 3
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_030",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_081",
           "title": "Magenteilresektion",
           "targetCount": 3
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_031",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_082",
           "title": "Leberwedgeresektion",
           "targetCount": 3
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_032",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_083",
           "title": "Enddarmoperation",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_033",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_084",
           "title": "Adhäsiolyse",
           "targetCount": 10
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_034",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_085",
           "title": "Erste Assistenz bei Eingriffen höherer Schwierigkeitsgrade, z. B. Pankreasresektion, Gastrektomie, Rektumresektion",
           "targetCount": 80
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_086",
+          "title": "Grundlagen der operativen Technik von Eingriffen höherer Schwierigkeitsgrade, z. B: hepatobiliäre Eingriffe, Operationen bei chronisch-entzündlichen Darmerkrankungen (CED), Roux-Y-Gastric Bypass, Adrenalektomie, Multiviszeralresektion",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_087",
+          "title": "Transplantationschirurgie",
+          "targetCount": 0
         }
       ]
     },
@@ -207,14 +487,49 @@
       "sectionTitle": "Verletzungen, Erkrankungen und Funktionsstörungen des Kopf- und Halsbereichs",
       "procedures": [
         {
-          "id": "ak_nordrhein_vc_2020_p_014",
-          "title": "Eingriffe an der Schilddrüse",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_088",
+          "title": "Indikationsstellung zur operativen Therapie und Nachbehandlung von Parathyreoidektomien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_089",
+          "title": "Zervikale Eingriffe, z. B. Tracheotomie, Lymphknoten-Probeexcision",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_090",
+          "title": "Thyreoidektomie und Neck-Dissektion bei malignen Erkrankungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_091",
+          "title": "Eingriffe an der Schilddrüse, davon",
           "targetCount": 25
         },
         {
-          "id": "ak_nordrhein_vc_2020_p_015",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_092",
           "title": "Schilddrüsenresektion",
-          "targetCount": 20
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Strahlenschutz",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_093",
+          "title": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_094",
+          "title": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_095",
+          "title": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz",
+          "targetCount": 0
         }
       ]
     }

@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020",
+    "specialtyName": "Facharzt für Frauenheilkunde und Geburtshilfe",
+    "medicalAssociation": "Ärztekammer Nordrhein",
+    "requiredMonths": 60,
+    "wboYear": 2020,
+    "version": "1.0"
+  },
+  "sections": [
+    {
+      "sectionTitle": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_001",
+          "title": "Wesentliche Gesetze, Verordnungen und Richtlinien",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_002",
+          "title": "Wundheilung und Narbenbildung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_003",
+          "title": "Prophylaxe, Diagnostik und Therapie von Thrombosen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_004",
+          "title": "Perioperative Behandlung einschließlich Vorbereitung, Nachsorge, Komplikationsmanagement und Behandlung von Infektionen sowie Indikationsstellung zu weiterführenden Maßnahmen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_005",
+          "title": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedener Wundauflagen, Unterdruck- und Kompressionstherapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_006",
+          "title": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Fachgebundene genetische Beratung",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_007",
+          "title": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_008",
+          "title": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_009",
+          "title": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_010",
+          "title": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_011",
+          "title": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Notfälle",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_012",
+          "title": "Diagnostik und Therapie von schwangerschaftsassoziierten, peripartalen, perinatalen, gynäkologischen und reproduktionsmedizinischen Notfallsituationen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_013",
+          "title": "Diagnostik und Therapie von entzündlichen Erkrankungen des äußeren und inneren Genitale, des Abdomens, der Harnblase, der Harnröhre und der Brust einschließlich einer im Einzelfall notwendigen Partnerbehandlung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_014",
+          "title": "Diagnostik und Therapie von sexuell übertragbaren Infektionen (STI) einschließlich der Beratung zur Prävention",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_015",
+          "title": "Diagnostik und Therapie von Infektionen in Schwangerschaft und Wochenbett",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Sexualmedizinische Aspekte des Gebietes",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_016",
+          "title": "Grundlagen des biopsychosozialen Sexualitätsmodells, der somato- und psychosexuellen Entwicklung über die Lebensspanne, sexueller Traumatisierungen und deren Auswirkungen einschließlich Paarkonflikt- und Beziehungsstörungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_017",
+          "title": "Sexualanamnese",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_018",
+          "title": "Diagnostik und Therapie von sexuellen Funktionsstörungen, sexuellen Präferenz- und Verhaltensstörungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_019",
+          "title": "Sexualberatung der Frau und des Paares sowie Indikationsstellung zur weiterführenden Behandlung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Urogynäkologische, organische und funktionelle Störungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_020",
+          "title": "Diagnostik und medikamentöse Therapie bei Senkungszuständen des Genitale und Harninkontinenz sowie Analinkontinenz einschließlich Beckenbodentraining und Indikationsstellung zur operativen Therapie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_021",
+          "title": "Deszensus- und Inkontinenzoperationen",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Gynäkologische Endokrinologie",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_022",
+          "title": "Störungen der weiblichen Geschlechtsentwicklung und Pubertät",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_023",
+          "title": "Diagnostik und Therapie von Störungen des weiblichen Zyklus einschließlich Zyklusbeschwerden",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_024",
+          "title": "Behandlung des prämenstruellen Syndroms",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_025",
+          "title": "Ovarielle Fehlfunktion",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_026",
+          "title": "Diagnostik und Therapie weiblicher Sterilität und zugrundeliegender endokriner Störungen einschließlich Indikationsstellung zur weiterführenden Behandlung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_027",
+          "title": "Diagnostik und Therapie der Ovarialinsuffizienz",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_028",
+          "title": "Beratung zur Familienplanung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_029",
+          "title": "Beratung zur hormonellen, chemischen, mechanischen und operativen Kontrazeption",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_030",
+          "title": "Diagnostik und Therapie der Endometriose",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_031",
+          "title": "Therapie bei Beschwerden im Klimakterium und in der Postmenopause",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_032",
+          "title": "Prävention, Diagnostik und Therapie der Osteoporose",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Alters- und kulturspezifische Erkrankungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_033",
+          "title": "Grundlagen der Kinder- und Jugendgynäkologie",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_034",
+          "title": "Symptome sexueller und körperlicher Gewalt, Genitalverstümmelung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_035",
+          "title": "Untersuchungen und Dokumentation von Sexualdelikten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_036",
+          "title": "Beratung zu Hilfsangeboten bei Gewaltfolgen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_037",
+          "title": "Grundlagen plastisch-operativer und rekonstruktiver Eingriffe bei gestörter Anlage und Entwicklung von Genitale und Mamma sowie Gewaltfolgen und Genitalverstümmelung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Tumorerkrankungen",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_038",
+          "title": "Benigne, prämaligne und maligne Erkrankungen des inneren und äußeren Genitale und der weiblichen und männlichen Mamma einschließlich Tumornachsorge",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_039",
+          "title": "Komplementärmedizinische Verfahren",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_040",
+          "title": "Indikationsstellung zur medikamentösen, operativen und strahlentherapeutischen Behandlung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_041",
+          "title": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_042",
+          "title": "Regelmäßige Teilnahme an interdisziplinären Tumorkonferenzen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_043",
+          "title": "Erkennung und Behandlung von Tumor- und Therapiekomplikationen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_044",
+          "title": "Basisbehandlung palliativmedizinisch zu versorgender Patienten",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Prävention",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_045",
+          "title": "Altersspezifische Gesundheitsberatung einschließlich Ernährungsberatung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_046",
+          "title": "Kolposkopie",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_047",
+          "title": "Befundinterpretation zytologischer und HPV-Abstriche",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_048",
+          "title": "Durchführung und spezifische Beratung zur HPV-Impfung auf Grundlage der STIKO-Empfehlungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_049",
+          "title": "Untersuchungen zur Krebsfrüherkennung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Diagnostische Verfahren",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_050",
+          "title": "B-Modus-Sonographien der weiblichen Genitalorgane einschließlich Endosonographie",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_051",
+          "title": "B-Modus-Sonographien der Brustdrüse sowie der Lymphabflusswege",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_052",
+          "title": "Duplex-Sonographien der Gefäße des weiblichen Genitalsystems sowie der Lymphabflusswege",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_053",
+          "title": "Anfertigung und Beurteilung von Nativpräparaten im Phasenkontrastmikroskop",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_054",
+          "title": "Abstrich- und Probenentnahme für mikrobiologische Untersuchungen einschließlich semiquantitativer Urindiagnostik und Befundinterpretation",
+          "targetCount": 100
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Operative und weitere therapeutische Verfahren",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_055",
+          "title": "Operative Eingriffe, davon",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_056",
+          "title": "einfache Eingriffe am äußeren und inneren Genitale und der Brust, insbesondere Abrasio, Konisation, Nachkürettage, diagnostische und therapeutische Hysteroskopie, diagnostische Laparoskopie",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_057",
+          "title": "Mitwirkung bei komplexen Eingriffen am äußeren und inneren Genitale und der Brust, insbesondere therapeutische Laparoskopien sowie Tumorektomien, Entfernung von regionalen Lymphknoten",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_058",
+          "title": "Lokalanästhesien",
+          "targetCount": 50
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_059",
+          "title": "Infusions-, Transfusions- und Blutersatztherapien, enterale und parenterale Ernährung",
+          "targetCount": 0
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Schwangerschaft, Geburt und Wochenbett",
+      "procedures": [
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_060",
+          "title": "Physiologie und Pathologie von Schwangerschaft, Geburt und Wochenbett",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_061",
+          "title": "Stillberatung und Betreuung des gesunden Neugeborenen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_062",
+          "title": "Fetale Erkrankungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_063",
+          "title": "Feststellung einer Schwangerschaft und Beratung sowie Mutterschaftsvorsorge",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_064",
+          "title": "Diagnostik und Therapie von schwangerschaftsinduzierten Erkrankungen und Erkrankungen in der Schwangerschaft einschließlich der Diagnostik des Schwangerschaftsdiabetes",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_065",
+          "title": "Behandlung von Risikoschwangerschaften",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_066",
+          "title": "Erstversorgung und Betreuung des Neugeborenen einschließlich Erstbehandlung von Anpassungsstörungen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_067",
+          "title": "Beratung bei Schwangerschaftskonflikten sowie Indikationsstellung zum Schwangerschaftsabbruch unter Berücksichtigung gesundheitlicher einschließlich psychischer Risiken",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_068",
+          "title": "B-Modus-Sonographien der utero-plazento-fetalen Einheit",
+          "targetCount": 300
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_069",
+          "title": "Duplex-Sonographien des feto-maternalen Gefäßsystems, davon",
+          "targetCount": 100
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_070",
+          "title": "pathologische Fälle",
+          "targetCount": 5
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_071",
+          "title": "Antepartale Kardiotokogramme",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_072",
+          "title": "Intrapartale Kardiotokogramme",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_073",
+          "title": "Leitungen von normalen Geburten, auch mit Versorgung von Scheidendammschnitten und Geburtsverletzungen",
+          "targetCount": 200
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_074",
+          "title": "Sectio caesarea",
+          "targetCount": 20
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_075",
+          "title": "Mitwirkung bei weiteren geburtshilflichen Eingriffen, z. B. Forzeps, Vakuum-Extraktion, vaginale Entwicklung aus Beckenendlage und manuelle Plazentalösung",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_076",
+          "title": "Geburtsbetreuung und Mitwirkung bei Risikogeburten und geburtshilflichen Eingriffen höherer Schwierigkeitsgrade",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_frauenheilkunde_geburtshilfe_2020_p_077",
+          "title": "Diagnostik und Therapie von Erkrankungen im Wochenbett einschließlich Beratung",
+          "targetCount": 0
+        }
+      ]
+    }
+  ]
+}
