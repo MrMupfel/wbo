@@ -5,7 +5,7 @@
     "medicalAssociation": "Ärztekammer Nordrhein",
     "requiredMonths": 72,
     "wboYear": 2020,
-    "version": "1.0"
+    "version": "2022"
   },
   "sections": [
     {
@@ -48,12 +48,12 @@
         },
         {
           "id": "ak_nordrhein_viszeralchirurgie_2020_p_008",
-          "title": "Grundlagen der medikamentösen Tumortherapie",
+          "title": "Defektdeckung bei akuten und chronischen Wunden",
           "targetCount": 0
         },
         {
           "id": "ak_nordrhein_viszeralchirurgie_2020_p_009",
-          "title": "Defektdeckung bei akuten und chronischen Wunden",
+          "title": "Grundlagen der medikamentösen Tumortherapie",
           "targetCount": 0
         },
         {
@@ -108,27 +108,27 @@
         },
         {
           "id": "ak_nordrhein_viszeralchirurgie_2020_p_018",
-          "title": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen",
-          "targetCount": 0
-        },
-        {
-          "id": "ak_nordrhein_viszeralchirurgie_2020_p_019",
-          "title": "Differenzierte Beatmungstechniken",
-          "targetCount": 0
-        },
-        {
-          "id": "ak_nordrhein_viszeralchirurgie_2020_p_020",
           "title": "Kardiopulmonale Reanimation",
           "targetCount": 0
         },
         {
-          "id": "ak_nordrhein_viszeralchirurgie_2020_p_021",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_019",
+          "title": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_020",
           "title": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie",
           "targetCount": 0
         },
         {
-          "id": "ak_nordrhein_viszeralchirurgie_2020_p_022",
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_021",
           "title": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten",
+          "targetCount": 0
+        },
+        {
+          "id": "ak_nordrhein_viszeralchirurgie_2020_p_022",
+          "title": "Differenzierte Beatmungstechniken",
           "targetCount": 0
         },
         {
@@ -393,7 +393,7 @@
         },
         {
           "id": "ak_nordrhein_viszeralchirurgie_2020_p_070",
-          "title": "Resektionen, Übernähungen, Exstirpatio- nen, konventionelle, endoskopische und interventionelle Techniken, auch minimal invasiv, insbesondere",
+          "title": "Resektionen, Übernähungen, Exstirpationen, konventionelle, endoskopische und interventionelle Techniken, auch minimal invasiv, insbesondere",
           "targetCount": 0
         },
         {
@@ -509,7 +509,7 @@
         {
           "id": "ak_nordrhein_viszeralchirurgie_2020_p_092",
           "title": "Schilddrüsenresektion",
-          "targetCount": 0
+          "targetCount": 20
         }
       ]
     },
