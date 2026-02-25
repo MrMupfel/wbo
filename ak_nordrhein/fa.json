@@ -2,6 +2,10 @@
   {
     "title": "Viszeralchirurgie",
     "filename": "viszeralchirurgie.json"
+  },
+  {
+    "title": "Anästhesie",
+    "filename": "anaesthesie.json"
   }
 ]
  
